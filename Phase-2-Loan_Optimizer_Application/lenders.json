@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Community First Credit Union",
+    "type": "Credit Union",
+    "min_income": 15000,
+    "max_loan_amount": 5000,
+    "interest_rate": "8-11%",
+    "notes": "Flexible for lower-income applicants, membership required"
+  },
+  {
+    "name": "SecureLend NBFC",
+    "type": "NBFC",
+    "min_income": 20000,
+    "max_loan_amount": 10000,
+    "interest_rate": "12-16%",
+    "notes": "Accepts higher-risk profiles, faster approval, no collateral needed"
+  },
+  {
+    "name": "Government Microloan Scheme",
+    "type": "Government-backed",
+    "min_income": 0,
+    "max_loan_amount": 2000,
+    "interest_rate": "4-6%",
+    "notes": "Designed for very low-income applicants, subsidized rate"
+  },
+  {
+    "name": "Neighborhood Trust Bank",
+    "type": "Community Bank",
+    "min_income": 25000,
+    "max_loan_amount": 15000,
+    "interest_rate": "9-13%",
+    "notes": "Local relationship-based lending, considers factors beyond credit score"
+  },
+  {
+    "name": "QuickAssist Secured Loans",
+    "type": "Secured Loan Provider",
+    "min_income": 5000,
+    "max_loan_amount": 3000,
+    "interest_rate": "6-9%",
+    "notes": "Requires collateral (e.g. savings account or asset), lower rate in exchange"
+  },
+  {
+    "name": "StartUp Micro-Credit",
+    "type": "NBFC",
+    "min_income": 0,
+    "max_loan_amount": 1000,
+    "interest_rate": "5-8%",
+    "notes": "Very small loans for applicants with minimal or no income history"
+  }
+]

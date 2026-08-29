@@ -1,0 +1,22 @@
+name: ai_journey
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib 
+  - fastapi
+  - uvicorn
+  - pydantic
+  - scikit-learn
+  - huggingface_hub
+  - python-dotenv
+  - pickle
+  - ipykernel
+  - jupyter
+  - requests
+
+
